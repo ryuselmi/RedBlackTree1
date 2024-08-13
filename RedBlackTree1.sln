@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RedBlackTree1", "RedBlackTr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBlackTree1Tests", "..\RedBlackTree1Tests\RedBlackTree1Tests.csproj", "{979FE5DD-F888-46EF-B165-EA54532E785A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{9D530A25-D9A8-4A32-8453-91F2FA4D29D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedBlackTree1Tests1", "..\RedBlackTree1Tests1\RedBlackTree1Tests1.csproj", "{E76BF792-BE21-4F8D-8BA8-86FD505FABE9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{979FE5DD-F888-46EF-B165-EA54532E785A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{979FE5DD-F888-46EF-B165-EA54532E785A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{979FE5DD-F888-46EF-B165-EA54532E785A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D530A25-D9A8-4A32-8453-91F2FA4D29D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D530A25-D9A8-4A32-8453-91F2FA4D29D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D530A25-D9A8-4A32-8453-91F2FA4D29D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D530A25-D9A8-4A32-8453-91F2FA4D29D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E76BF792-BE21-4F8D-8BA8-86FD505FABE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E76BF792-BE21-4F8D-8BA8-86FD505FABE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E76BF792-BE21-4F8D-8BA8-86FD505FABE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E76BF792-BE21-4F8D-8BA8-86FD505FABE9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
